@@ -1,0 +1,4 @@
+
+"""
+Solved by hand
+"""
